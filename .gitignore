@@ -1,0 +1,26 @@
+# Environment variables and API keys
+.env
+.env.*cls
+!.env.example
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build files
+dist/.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.venv/
